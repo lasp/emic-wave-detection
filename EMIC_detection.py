@@ -1,7 +1,8 @@
 # AUTHOR: Taylor Whitney Aegerter
-# PURPOSE: Identifying EMIC waves using PySpedas to pull and save data
+# PURPOSE: Identifying EMIC waves using PySPEDAS to pull and save data
 #   Based on Bortnik et al. (2007)
-# Current as of: 13 March 2026
+#   Uses Pedersen et al. (2024) geomagnetic storm list
+# Current as of: 24 March 2026
 
 import pyspedas
 import pytplot
